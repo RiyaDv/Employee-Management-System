@@ -20,8 +20,7 @@ This is a web application that allows administrators to perform CRUD (Create, Re
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/RiyaDV/Employee-Management-System
-.git
+git clone https://github.com/RiyaDV/Employee-Management-System.git
 cd Employee-Management-System
 
 ```
